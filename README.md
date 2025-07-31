@@ -33,12 +33,4 @@ Specializing in Microsoft Fabric, Power BI, ADF, Databricks, and scalable data p
 
 ---
 
-### Let’s Connect!
-
--  [LinkedIn – Haritha Bollepalli](https://www.linkedin.com/in/haritha-bollepalli)
--  Based in Toronto, open to **remote/hybrid roles across Canada**
--  Email: bollepalliharithans@gmail.com
-
----
-
 _Thanks for checking out my portfolio!_ 😊
